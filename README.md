@@ -1,4 +1,4 @@
-# GG-WALLPAPERS
+# fondosMil
 :v
 # Nombre de la pagina
 
@@ -11,11 +11,10 @@ Vamos a hacer una pagina de wallpapers (fondos de pantalla) con distintas catego
 
 ## Paginas
 
-tendra 5 paginas, con 9 wallpapers cada una. 
-
+tendra paginas con varidad de wallpapers
 ### Pagina
 
-![GG-WALLPAPERS](path a image) 
+![FondosMil](path a image) 
 
 ### Sub-pagina
 
